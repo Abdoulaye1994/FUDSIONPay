@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "fusionpay": "^0.0.7",
     "node-fetch": "^3.3.2"
